@@ -1,4 +1,4 @@
-# DIscord-Ping-Bot
+# Discord-Ping-Bot
 PING PONG
 
 Requirements: python and discord.py. Guide is in the video.
